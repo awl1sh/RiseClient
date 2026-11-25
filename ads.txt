@@ -10,11 +10,11 @@
     {
       "id": "dicodeping-telegram",
       "enabled": true,
-      "title_fa": "عضو کانالمون هنوز نشدی؟ 👀",
+      "title_fa": "بیا تو رایس نتورک ",
       "title_en": "Haven't joined our channel yet? 👀",
-      "body_fa": "بابا تو دیکد پینگ منتظرتیما! 😎🔥",
+      "body_fa": "دنیای بدون محدودیت با رایس نتورک😎🔥",
       "body_en": "We're waiting for you at Dicode Ping! 😎🔥",
-      "target_url": "https://t.me/dicodeping",
+      "target_url": "https://t.me/Rsenet",
       "placements": [
         "home"
       ]
